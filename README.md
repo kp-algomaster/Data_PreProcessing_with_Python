@@ -8,7 +8,7 @@ This repo contains several files:
 - Notebook:
   - data_pre-processing.ipynb
   - useful functions.ipynb
-- Data:
+- Datasets:
   - pima-indians-diabetes.data.csv
 - Images:
   - tukeyiqr.jpg
